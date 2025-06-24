@@ -6,4 +6,4 @@
 2. [JavaScript(web)](https://github.com/helloworldlabs-lecture-contents/A-1-2_JavaScript_web)
 
 ## B_Library
-1. React.js
+1. [React.js](https://github.com/helloworldlabs-lecture-contents/B-1_React.js)
