@@ -11,7 +11,7 @@
 ## C_Publishing
 1. HTML
 2. CSS
-3. Sass
+3. [Sass](https://github.com/helloworldlabs-lecture-contents/C-3_Sass)
 
 
 # ETC
