@@ -31,3 +31,4 @@
 3. [TDD](https://github.com/helloworldlabs-lecture-contents/Z-3_TDD)
 4. [Lighthouse](https://github.com/helloworldlabs-lecture-contents/Z-4_Lighthouse)
 5. [LazyLoading](https://github.com/helloworldlabs-lecture-contents/Z-5_lazyloading)
+6. Chart.js
