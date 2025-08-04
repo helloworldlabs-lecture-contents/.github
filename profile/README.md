@@ -31,4 +31,6 @@
 3. [TDD](https://github.com/helloworldlabs-lecture-contents/Z-3_TDD)
 4. [Lighthouse](https://github.com/helloworldlabs-lecture-contents/Z-4_Lighthouse)
 5. [LazyLoading](https://github.com/helloworldlabs-lecture-contents/Z-5_lazyloading)
-6. Chart.js
+6. [Chart.js](https://github.com/helloworldlabs-lecture-contents/Z-6_Chartjs)
+7. [D3.js](https://github.com/helloworldlabs-lecture-contents/Z-7_D3js)
+8. Web Crawling
