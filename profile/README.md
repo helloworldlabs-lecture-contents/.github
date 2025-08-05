@@ -33,4 +33,5 @@
 5. [LazyLoading](https://github.com/helloworldlabs-lecture-contents/Z-5_lazyloading)
 6. [Chart.js](https://github.com/helloworldlabs-lecture-contents/Z-6_Chartjs)
 7. [D3.js](https://github.com/helloworldlabs-lecture-contents/Z-7_D3.js)
-8. Web Crawling
+8. [Web Crawling](https://github.com/helloworldlabs-lecture-contents/Z-8_Crawling)
+9. [Data Preprocessing]
