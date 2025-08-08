@@ -35,4 +35,5 @@
 7. [D3.js](https://github.com/helloworldlabs-lecture-contents/Z-7_D3.js)
 8. [Web Crawling](https://github.com/helloworldlabs-lecture-contents/Z-8_Crawling)
 9. [Data Preprocessing](https://github.com/helloworldlabs-lecture-contents/Z-9_Data_Preprocessing)
-10. Feature Engineering
+10. [Feature Engineering](https://github.com/helloworldlabs-lecture-contents/Z-10_Feature_engineering)
+11. KPI
