@@ -37,4 +37,4 @@
 9. [Data Preprocessing](https://github.com/helloworldlabs-lecture-contents/Z-9_Data_Preprocessing)
 10. [Feature Engineering](https://github.com/helloworldlabs-lecture-contents/Z-10_Feature_engineering)
 11. [KPI](https://github.com/helloworldlabs-lecture-contents/Z-11_KPI)
-12. ITT/STT
+12. [ITT/STT](https://github.com/helloworldlabs-lecture-contents/Z-12_ITT_STT)
