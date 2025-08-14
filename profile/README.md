@@ -38,5 +38,5 @@
 10. [Feature Engineering](https://github.com/helloworldlabs-lecture-contents/Z-10_Feature_engineering)
 11. [KPI](https://github.com/helloworldlabs-lecture-contents/Z-11_KPI)
 12. [ITT/STT](https://github.com/helloworldlabs-lecture-contents/Z-12_ITT_STT)
-13. [REST API]()
+13. [REST API](https://github.com/helloworldlabs-lecture-contents/Z-13_Nodejs)
 14. On-Device AI
